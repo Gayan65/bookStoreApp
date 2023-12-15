@@ -1,0 +1,45 @@
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\New folder\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\Learn\SEM_TWO\OOP\ASSIGNMENT\2\FinalCut\BookStore\obj\Debug\net6.0\ref\BookStore.dll
